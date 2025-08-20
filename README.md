@@ -60,4 +60,5 @@ cd AI_Automation_Tool
 - Author :
 - Abhisek kumar Bhuyan
 - Abhisekbhuyan20@gmail.com
-- https://www.linkedin.com/in/abhisek-bhuyan-4b2633248<img width="1919" height="920" alt="Screenshot 2025-08-13 133840" src="https://github.com/user-attachments/assets/7eedf85a-95b9-43d6-9dd4-35b112d61839" />
+- https://www.linkedin.com/in/abhisek-bhuyan-4b2633248<img width="1835" height="751" alt="Screenshot 2025-08-20 200416" src="https://github.com/user-attachments/assets/432901ff-78e2-4f3b-9d47-37d18741776f" />
+
